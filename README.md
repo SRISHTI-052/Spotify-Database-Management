@@ -29,6 +29,7 @@ The Spotify Database Management Project is a collaborative effort by Srishit, Sa
    ```bash
    git clone:  https://github.com/sakshit2004/Spotify-Database-Management.git
 ## Screenshots
+![image](https://github.com/sakshit2004/Spotify-Database-Management/blob/main/USER%20FORM.jpg)
 
 ![image](https://github.com/sakshit2004/Spotify-Database-Management/blob/main/Playlist%20form.jpg)
 
