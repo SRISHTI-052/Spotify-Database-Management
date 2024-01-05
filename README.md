@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Spotify Database Management Project is a collaborative effort by Srishit, Sakshit and jeel. This project focuses on creating a robust database management system for handling user information, playlists, and tracks within a Spotify-like music application. In addition to core functionalities, a history table has been implemented to store historical data, providing insights into changes made over time.
+The Spotify Database Management Project is a collaborative effort by Srishti, Sakshit and jeel. This project focuses on creating a robust database management system for handling user information, playlists, and tracks within a Spotify-like music application. In addition to core functionalities, a history table has been implemented to store historical data, providing insights into changes made over time.
 
 ## Features
 
